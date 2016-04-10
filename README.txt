@@ -1,10 +1,3 @@
-Rachita Gupta
-1208247724
-
-PA2
-Compile the code: 
-javac Main.java
-
 Note: If you input n via file then store the file in the same directory
 
 Run the code:
